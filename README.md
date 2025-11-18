@@ -8,7 +8,7 @@
 4 динамик  и камера тоже не видны ему
 5 полная конфиденциальность, только сообщения
 6 Google Play видит его как обычный макс.
-
+пароль gitHUB
 
 
 
@@ -23,3 +23,4 @@ Here are its advantages:
 4 He can't see the speaker and camera either
 5 Complete privacy, messages only
 6 Google Play sees it as a regular max.
+password gitHUB
